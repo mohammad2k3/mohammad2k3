@@ -26,8 +26,6 @@ Hey there! 👋 I'm **Mohammad Ahmad Raza** — a **code-slinging wizard** who t
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
   <br/>
 
@@ -57,7 +55,7 @@ Hey there! 👋 I'm **Mohammad Ahmad Raza** — a **code-slinging wizard** who t
   <a href="https://github.com/mohammad2k3">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ahmadraza97x@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmadraza97x@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</a>
 </div>
